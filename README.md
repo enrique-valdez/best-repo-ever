@@ -1,2 +1,3 @@
 # best-repo-ever
-# Hola nuevo comentario
+# Prueba para conflicto
+# Nueva info
